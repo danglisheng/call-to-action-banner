@@ -29,14 +29,13 @@ body {
   top:50%;
   left:50%;
   transform:translate(-50%,-50%);
-  margin-top:-5px;
-
+  
 }
 .banner-icon-wrapper {
   margin:0;
   float:left;
   padding:0 1em;
-  width:31.5%;
+  width:35%;
   }
 .banner-icon {
   display: block;
